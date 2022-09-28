@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.tweetapp.tweetsTest.TweetsTest
--------------------------------------------------------------------------------
-Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.525 s - in com.tweetapp.tweetsTest.TweetsTest
